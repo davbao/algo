@@ -22,6 +22,7 @@ class Solution {
             return str;
         }
         char[] arr = str.toCharArray();
+        ////根据长度分奇偶数讨论，奇数时end = (arr.length - 1) / 2,偶数时候为arr.length / 2 - 1
         int end = arr.length % 2 != 0 ? (arr.length - 1) / 2 : arr.length / 2 - 1;
         for (int i = 0; i <= end; i++) {
             char temp = arr[i];
