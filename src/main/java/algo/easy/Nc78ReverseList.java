@@ -1,5 +1,7 @@
 package main.java.algo.easy;
 
+import main.java.algo.common.ListNode;
+
 /**
  * @author davbao
  * @date 2021/9/28

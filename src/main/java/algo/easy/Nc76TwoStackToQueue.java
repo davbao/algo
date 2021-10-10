@@ -3,7 +3,7 @@ package main.java.algo.easy;
 import java.util.Stack;
 
 /**
- * @author zhangzhongbao
+ * @author davbao
  * @date 2021/9/28
  */
 public class Nc76TwoStackToQueue {
