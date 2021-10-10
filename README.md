@@ -1,5 +1,5 @@
 # algorithm
-个人项目，旨在提高coding能力
+提高coding能力
 ---
 简单：
 1. NC103 反转字符串
